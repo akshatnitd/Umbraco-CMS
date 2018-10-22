@@ -48,3 +48,7 @@ Another way you can contribute to Umbraco is by providing issue reports. For inf
 
 You can comment and report issues on the [github issue tracker](https://github.com/umbraco/Umbraco-CMS/issues).
 Since [September 2018](https://umbraco.com/blog/a-second-take-on-umbraco-issue-tracker-hello-github-issues/) the old issue tracker is in read only mode, but can still be found at [http://issues.umbraco.org](http://issues.umbraco.org).
+
+## License
+
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
